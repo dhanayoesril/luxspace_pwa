@@ -13,10 +13,10 @@ function App() {
       <Header/>
       <Hero/>
       <Browse/>
-      {/* <Arrived/> */}
-      {/* <Clients/> */}
-      {/* <AsideMenu/> */}
-      {/* <Footer/> */}
+      <Arrived/>
+      <Clients/>
+      <AsideMenu/>
+      <Footer/>
     </>
   );
 }
